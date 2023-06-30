@@ -4,20 +4,20 @@ Welcome to my GitHub page! I am a full stack developer with a strong focus on fr
 
 ## Projects
 
-### Project 1: crypto-app-scripts
-- Description: The Crypto App scripts is a script designed to streamline the process of importing and using trade data from popular crypto exchanges such as Binance and Kraken in the Crypto-App application. It automates the conversion of export files from these exchanges into a format compatible with the Crypto-App application's data structure.
-- Technologies: Python
-- Repository: [Link to the GitHub repository of the project.](https://github.com/Rovastus/crypto-app-scripts)
+### Project 1: crypto-app-client
+- Description: Angular-based Crypto App client, offering a sleek and interactive dashboard for seamlessly importing, analyzing, and visualizing trade data from popular crypto exchanges. Gain valuable insights into your portfolio with data analysis and responsive design for an optimized user experience.
+- Technologies: Angular
+- Repository: [Link to the GitHub repository of the project.](https://github.com/Rovastus/crypto-app-client)
 
 ### Project 2: crypto-app-server
 - Description: The Crypto App server, a powerful and user-friendly server designed to import, analyze, and gain insights from data exported from popular crypto exchanges. It can effortlessly calculate average price and earnings and make informed decisions for your crypto investments.
 - Technologies: Node.js, GraphQL, PostgreSQL
 - Repository: [Link to the GitHub repository of the project.](https://github.com/Rovastus/crypto-app-server)
-
-### Project 3: crypto-app-client
-- Description: Angular-based Crypto App client, offering a sleek and interactive dashboard for seamlessly importing, analyzing, and visualizing trade data from popular crypto exchanges. Gain valuable insights into your portfolio with data analysis and responsive design for an optimized user experience.
-- Technologies: Angular
-- Repository: [Link to the GitHub repository of the project.](https://github.com/Rovastus/crypto-app-client)
+  
+### Project 3: crypto-app-scripts
+- Description: The Crypto App scripts is a script designed to streamline the process of importing and using trade data from popular crypto exchanges such as Binance and Kraken in the Crypto-App application. It automates the conversion of export files from these exchanges into a format compatible with the Crypto-App application's data structure.
+- Technologies: Python
+- Repository: [Link to the GitHub repository of the project.](https://github.com/Rovastus/crypto-app-scripts)
 
 ## Connect with Me
 
